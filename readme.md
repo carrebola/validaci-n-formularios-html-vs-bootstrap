@@ -7,9 +7,9 @@
 - También podemos usar patrones a partir de *expresiones regulares* con PATTERN
 
 ### Ventajas
-    - Viene por defecto y no hay que programar
-    - Podemos controlar el estado de los inputs mediante javascript utilizando su API de validación https://www.w3schools.com/js/js_validation_api.asp
-    - Podemos aplicar estilos a los inputs según son validos o invalidas con la pseudoclase :valid :invalid
+  - Viene por defecto y no hay que programar
+  - Podemos controlar el estado de los inputs mediante javascript utilizando su API de validación https://www.w3schools.com/js/js_validation_api.asp
+  - Podemos aplicar estilos a los inputs según son validos o invalidas con la pseudoclase :valid :invalid
 
 ## BOOTSTRAP
 - Usaremos igualmente las condiciones de html5
